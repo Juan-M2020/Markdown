@@ -38,7 +38,7 @@ Un video recomendado:
 https://www.youtube.com/watch?v=cHHLHGNpCSA
 
 
-![alt text](image.png)
+![imagen](./image.png)
 ## 😝 Emojis con intención
 ```python
 Hoy me siento: 🤘 😎 💻  🚀 ✈️ 
@@ -54,5 +54,5 @@ Mis herramientas favoritas: 💻 🧠 🔧
 |------|----------------|
 | Títulos |  AIRBUS |
 | Links  | https://www.airbus.com/en |
-| Imágenes | ![alt text](image-1.png) |
+| Imágenes | ![imagen 2](./image-1.png) |
 
